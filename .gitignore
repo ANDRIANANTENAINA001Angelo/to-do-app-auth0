@@ -3,3 +3,6 @@
 *.iml
 .directory
 .idea
+/__pycache__/
+/instance/
+
